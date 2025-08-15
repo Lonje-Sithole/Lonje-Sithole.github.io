@@ -16,12 +16,11 @@ profiles:
     url: https://www.linkedin.com/in/lonjezo-sithole-7b83b234/
 
 interests:
-  - Econometrics
-  - Statistical Optimal Transport
-  - Probabilistic Machine Learning
-  - Nonparametric and Semiparametric Methods
   - Causal Inference
   - Treatment Choice
+  - Statistical Optimal Transport
+  - Probabilistic Machine Learning
+  - Nonparametric and Semiparametric Bayesian Methods
   - Nonparametric Welfare Analysis
 
 education:
