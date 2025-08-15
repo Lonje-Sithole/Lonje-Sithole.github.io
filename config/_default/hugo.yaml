@@ -6,7 +6,7 @@
 # Website name
 title: "Lonjezo Sithole"
 # Website URL
-baseURL:https://lonje-sithole.github.io/"
+baseURL: "https://lonje-sithole.github.io/"
 
 ############################
 ## LANGUAGE
