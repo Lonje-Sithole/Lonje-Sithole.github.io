@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lonjezo Sithole
+title: Lonjezo Sithole
 
 # Full name (for SEO)
 first_name: Lonjezo
@@ -17,7 +17,7 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: University of Michigan – Department of Economics
+  - name: University of Michigan – Department of Economics
     url: https://lsa.umich.edu/econ
 
 # Social network links
@@ -29,7 +29,7 @@ profiles:
 interests:
   - Econometrics
   - Statistical Optimal Transport
-  - Probabilistic Machine Learning
+  - Probabilistic Machine Learning
   - Nonparametric and Semiparametric Methods
   - Causal Inference
   - Treatment Choice
@@ -37,7 +37,7 @@ interests:
 
 # Education (optional)
 education:
-    - area: PhD in Economics (expected)
+  - area: PhD in Economics (expected)
     institution: University of Michigan
     date_start: 2020-09-01
     date_end: 2027-06-01
@@ -58,11 +58,10 @@ education:
     institution: University of Malawi
     date_start: 2008-09-01
     date_end: 2012-06-01
-    summary: Fifth‑year PhD candidate in Economics
 ---
 
-## About Me
+## About Me
 
 Hello! Welcome to my website.
 
-I am a fifth‑year PhD candidate in Economics in the Department of Economics at the University of Michigan‑Ann Arbor. My research interests mainly lie in econometrics, both theoretical and applied. I am particularly interested in applications of statistical optimal transport, probabilistic ML, as well as nonparametric and semiparametric methods (both frequentist and Bayesian) to econometric challenges in causal inference, treatment choice and nonparametric welfare analysis.
+I am a fifth-year PhD candidate in Economics in the Department of Economics at the University of Michigan–Ann Arbor. My research interests mainly lie in econometrics, both theoretical and applied. I am particularly interested in applications of statistical optimal transport, probabilistic ML, as well as nonparametric and semiparametric methods (both frequentist and Bayesian) to econometric challenges in causal inference, treatment choice and nonparametric welfare analysis.
