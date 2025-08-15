@@ -37,10 +37,27 @@ interests:
 
 # Education (optional)
 education:
-  - area: PhD in Economics
+    - area: PhD in Economics (expected)
     institution: University of Michigan
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2027-06-01
+    summary: "Expected graduation in 2027"
+  - area: MA in Economics
+    institution: University of Michigan
+    date_start: 2022-09-01
+    date_end: 2023-06-01
+  - area: MSc in Econometrics
+    institution: University of Edinburgh
+    date_start: 2018-09-01
+    date_end: 2019-06-01
+  - area: MA in Economics
+    institution: University of Malawi
+    date_start: 2016-09-01
+    date_end: 2018-06-01
+  - area: Bachelor of Social Science in Economics
+    institution: University of Malawi
+    date_start: 2008-09-01
+    date_end: 2012-06-01
     summary: Fifth‑year PhD candidate in Economics
 ---
 
