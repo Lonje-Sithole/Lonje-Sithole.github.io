@@ -1,5 +1,6 @@
 ---
 title: Teaching
+pager: false
 ---
 
 ### Courses taught
