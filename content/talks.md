@@ -1,5 +1,6 @@
 ---
 title: Talks
+pager: false
 ---
 
 ### Conference presentations
