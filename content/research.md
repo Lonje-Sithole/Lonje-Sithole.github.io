@@ -1,5 +1,6 @@
 ---
 title: Research
+pager: false
 ---
 
 ### Working Papers
