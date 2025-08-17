@@ -5,7 +5,7 @@ pager: false
 
 ### Working Papers
 
-#### Nonparametric Testability of Slutsky Symmetry (with Florian Gunsilius) — Under Review  
+#### Nonparametric Testability of Slutsky Symmetry — Under Review  
 **Authors:** Florian Gunsilius, Lonjezo Sithole  
 [PDF](https://arxiv.org/abs/2505.05603)
 
@@ -16,7 +16,7 @@ The theoretical contribution is a multivariate generalization of identification 
 
 ---
 
-#### A Locally Robust Semiparametric Approach to Examiner IV Designs — Draft  
+#### A Locally Robust Semiparametric Approach to Examiner IV Designs — Reject and Resubmit, Journal of Econometrics  
 **Author:** Lonjezo Sithole  
 [PDF](https://arxiv.org/abs/2404.19144)
 
