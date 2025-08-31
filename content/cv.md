@@ -4,4 +4,4 @@ title: cv
 pager: false
 ---
 
-YYou can download my CV [here](/uploads/Lonjezo_Sithole_CV.pdf).
+You can download my CV [here](/uploads/Lonjezo_Sithole_CV.pdf).
