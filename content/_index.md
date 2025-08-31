@@ -13,7 +13,7 @@ sections:
       text: ""
       button:
         text: Download CV
-        url: files/Lonjezo_Sithole_CV.pdf
+        url: uploads/Lonjezo_Sithole_CV.pdf
     design:
       css_class: dark
       background:
